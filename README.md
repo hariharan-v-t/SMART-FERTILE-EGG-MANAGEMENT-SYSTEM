@@ -2,16 +2,6 @@
 
 ## Smart Fertile Egg Lifecycle Management System
 
-> **From Storage to Hatch — Smarter.**
-
-<p align="center">
-  <img src="images/hatchx-banner.png" alt="HATCHX Banner" width="900">
-</p>
-
-<p align="center">
-  <b>COLLECTION → STORAGE → INCUBATION → HATCHING → CHICK</b>
-</p>
-
 ---
 
 ## 🚀 Overview
